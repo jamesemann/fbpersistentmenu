@@ -1,0 +1,40 @@
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Bot Application.dll.config
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Bot Application.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Bot Application.pdb
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Autofac.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Chronic.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Newtonsoft.Json.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\System.Net.Http.Formatting.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\System.Web.Http.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\System.Web.Http.WebHost.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Autofac.xml
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\Newtonsoft.Json.xml
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\System.Net.Http.Formatting.xml
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\System.Web.Http.xml
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\System.Web.Http.WebHost.xml
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\obj\Debug\MenuBot.csprojResolveAssemblyReference.cache
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\obj\Debug\Bot Application.dll
+C:\Users\james\documents\visual studio 2017\Projects\MenuBot\obj\Debug\Bot Application.pdb

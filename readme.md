@@ -2,15 +2,18 @@
 
 ## 1 - Add a get started button
 
-```curl -X POST -H "Content-Type: application/json" -d '{ 
+```
+curl -X POST -H "Content-Type: application/json" -d '{ 
   "get_started":{
     "payload":"this is the get started payload - it can be text, json, anything!"
   }
-}' "https://graph.facebook.com/v2.6/me/messenger_profile?access_token=<PageAccessToken>"```
+}' "https://graph.facebook.com/v2.6/me/messenger_profile?access_token=<PageAccessToken>"
+```
 
 ## 2 - Add your menu
 
-```curl -X POST -H "Content-Type: application/json" -d '{
+```
+curl -X POST -H "Content-Type: application/json" -d '{
   "persistent_menu":[
     {
       "locale":"default",
@@ -23,4 +26,5 @@
         }
       ]
     }  ]
-}' "https://graph.facebook.com/v2.6/me/messenger_profile?access_token=<PageAccessToken"```
+}' "https://graph.facebook.com/v2.6/me/messenger_profile?access_token=<PageAccessToken"
+```
